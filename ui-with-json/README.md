@@ -1,5 +1,3 @@
-# Projects to complete for Day 3
-
 ## Creating UI with some JSON data
 
 ## Data Source
