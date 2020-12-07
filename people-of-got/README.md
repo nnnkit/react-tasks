@@ -1,7 +1,25 @@
-## Final DOM Project
+# Create Multiple Tabs
 
-The aim of the exercise is to use `component`, `props` and `state` to create the application below.
+Create multiple tabs after fetching data from server in react.
 
-- Create app similar to [Demo](https://lzr8t.csb.app/)
+## Concepts To Learn
 
-- Use the data from this url `https://raw.githubusercontent.com/nnnkit/json-data-collections/master/got-houses.json`
+- Lifecycle Methods (componentDidMount)
+- Handling State
+- Passing data using props
+
+## [Demo](https://lzr8t.codesandbox.io/)
+
+## Instruction
+
+1. Use the data from this url [API](https://raw.githubusercontent.com/nnnkit/json-data-collections/master/got-houses.json)
+
+2. Divide the layout in multiple components
+
+3. It consists of multiple tabs with the name of the houses from Game of thrones.
+
+4. When you click on one of the tab that tab will become active.
+
+5. Below the tabs it will display cards of all the characters who belong to that house.
+
+6. Every card will contain the information i.e name and description.
